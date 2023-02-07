@@ -12,9 +12,7 @@ Console.Write( "Введите число: c  ");
 int c = int.Parse(Console.ReadLine()!);
 
 int max = a;
-
 if (b > a ) max = b;
 if (c > b && c> a) max = c;
 
 Console.Write("max=> ");
-Console.Write(max);
