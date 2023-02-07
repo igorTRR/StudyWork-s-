@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\StudyWoks\StW_010sem\bin\Debug\net6.0\StW_010sem.exe
+C:\Users\Пользователь\Desktop\StudyWoks\StW_010sem\bin\Debug\net6.0\StW_010sem.deps.json
+C:\Users\Пользователь\Desktop\StudyWoks\StW_010sem\bin\Debug\net6.0\StW_010sem.runtimeconfig.json
+C:\Users\Пользователь\Desktop\StudyWoks\StW_010sem\bin\Debug\net6.0\StW_010sem.dll
+C:\Users\Пользователь\Desktop\StudyWoks\StW_010sem\bin\Debug\net6.0\StW_010sem.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\StW_010sem\obj\Debug\net6.0\StW_010sem.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\StudyWoks\StW_010sem\obj\Debug\net6.0\StW_010sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\StudyWoks\StW_010sem\obj\Debug\net6.0\StW_010sem.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\StW_010sem\obj\Debug\net6.0\StW_010sem.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\StudyWoks\StW_010sem\obj\Debug\net6.0\StW_010sem.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\StW_010sem\obj\Debug\net6.0\StW_010sem.dll
+C:\Users\Пользователь\Desktop\StudyWoks\StW_010sem\obj\Debug\net6.0\refint\StW_010sem.dll
+C:\Users\Пользователь\Desktop\StudyWoks\StW_010sem\obj\Debug\net6.0\StW_010sem.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\StW_010sem\obj\Debug\net6.0\StW_010sem.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\StudyWoks\StW_010sem\obj\Debug\net6.0\ref\StW_010sem.dll
