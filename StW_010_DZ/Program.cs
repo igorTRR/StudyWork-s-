@@ -6,7 +6,7 @@
 // 918 -> 1
 
 Console.Clear();
-Console.WriteLine("Введите трехзначное число: ");
+Console.WriteLine("Введите трехзначное число:n ");
 int n = int.Parse(Console.ReadLine()!);
 
 int n1 = n / 10;
