@@ -4,10 +4,11 @@
 // -3 -> нет
 // 7 -> нет
 Console.Clear();
-Console.Write("Введите число: ");
-int n = int.Parse(Console.ReadLine()!);
+Console.Write("Введите число N: ");
 
-if(n%2 ==0)
+int N = int.Parse(Console.ReadLine()!);
+
+if(N%2 ==0)
 {
     Console.Write("YES -> Чет");
 }
