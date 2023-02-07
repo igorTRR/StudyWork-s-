@@ -4,9 +4,9 @@
 Console.Clear();
 Console.Write("Введите число N ");
 int N = int.Parse(Console.ReadLine()!);
-int K= 2;
+int K = 2;
 while (K <= N)
 {
     Console.Write($"{K}, ");
-    K+=2;
+    K +=2;
 }
