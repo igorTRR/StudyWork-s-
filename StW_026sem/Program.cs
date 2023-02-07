@@ -5,11 +5,18 @@
 int DigitCount(int A)
 {
     int counnt = 0;
-    while(A!= 0)
+    if (A == 0)
     {
-        A/=10;
-        counnt ++;
-    } 
+        counnt = 1;
+    }
+    else
+    {
+        while (A != 0)
+        {
+            A /= 10;
+            counnt++;
+        }
+    }
     return counnt;
 }
 Console.Clear();
