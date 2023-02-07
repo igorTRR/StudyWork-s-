@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\StudyWoks\StW_019_DZ\bin\Debug\net6.0\StW_019_DZ.exe
+C:\Users\Пользователь\Desktop\StudyWoks\StW_019_DZ\bin\Debug\net6.0\StW_019_DZ.deps.json
+C:\Users\Пользователь\Desktop\StudyWoks\StW_019_DZ\bin\Debug\net6.0\StW_019_DZ.runtimeconfig.json
+C:\Users\Пользователь\Desktop\StudyWoks\StW_019_DZ\bin\Debug\net6.0\StW_019_DZ.dll
+C:\Users\Пользователь\Desktop\StudyWoks\StW_019_DZ\bin\Debug\net6.0\StW_019_DZ.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\StW_019_DZ\obj\Debug\net6.0\StW_019_DZ.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\StudyWoks\StW_019_DZ\obj\Debug\net6.0\StW_019_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\StudyWoks\StW_019_DZ\obj\Debug\net6.0\StW_019_DZ.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\StW_019_DZ\obj\Debug\net6.0\StW_019_DZ.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\StudyWoks\StW_019_DZ\obj\Debug\net6.0\StW_019_DZ.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\StW_019_DZ\obj\Debug\net6.0\StW_019_DZ.dll
+C:\Users\Пользователь\Desktop\StudyWoks\StW_019_DZ\obj\Debug\net6.0\refint\StW_019_DZ.dll
+C:\Users\Пользователь\Desktop\StudyWoks\StW_019_DZ\obj\Debug\net6.0\StW_019_DZ.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\StW_019_DZ\obj\Debug\net6.0\StW_019_DZ.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\StudyWoks\StW_019_DZ\obj\Debug\net6.0\ref\StW_019_DZ.dll
