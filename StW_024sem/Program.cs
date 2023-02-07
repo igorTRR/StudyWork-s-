@@ -7,15 +7,15 @@
 int GetSum(int A)
 {
     int sum = 0;
-    for (int i = 1; i <=A; i++)
+    for (int i = 1; i <= A; i++)
     {
-        sum +=1; // sum = sum + 1
+        sum += i; // sum = sum + i
     }
     return sum;
 }
 
 Console.Clear();
 Console.Write("Введите число: ");
-int A = int.Parse(Console.ReadLine()!);
+int N = int.Parse(Console.ReadLine()!);
 
-Console.Write($"Сумма чисел от до {A} равна {GetSum()}");
+Console.WriteLine($"Сумма чисел от 1 до {N} равна {GetSum(N)}");
