@@ -6,11 +6,10 @@
 
 Console.Clear();
 Console.Write("Введите день недели: ");
-
 int n = int.Parse(Console.ReadLine()!);
-{
- if(n== 6 || n==7)
 
+ if(n== 6 || n==7)
+{
     Console.Write(" ДА -> выходной день");
 
 else 
