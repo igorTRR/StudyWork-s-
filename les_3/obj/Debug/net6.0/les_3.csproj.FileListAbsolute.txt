@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\StudyWoks\les_3\bin\Debug\net6.0\les_3.exe
+C:\Users\Пользователь\Desktop\StudyWoks\les_3\bin\Debug\net6.0\les_3.deps.json
+C:\Users\Пользователь\Desktop\StudyWoks\les_3\bin\Debug\net6.0\les_3.runtimeconfig.json
+C:\Users\Пользователь\Desktop\StudyWoks\les_3\bin\Debug\net6.0\les_3.dll
+C:\Users\Пользователь\Desktop\StudyWoks\les_3\bin\Debug\net6.0\les_3.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\les_3\obj\Debug\net6.0\les_3.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\StudyWoks\les_3\obj\Debug\net6.0\les_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\StudyWoks\les_3\obj\Debug\net6.0\les_3.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\les_3\obj\Debug\net6.0\les_3.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\StudyWoks\les_3\obj\Debug\net6.0\les_3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\les_3\obj\Debug\net6.0\les_3.dll
+C:\Users\Пользователь\Desktop\StudyWoks\les_3\obj\Debug\net6.0\refint\les_3.dll
+C:\Users\Пользователь\Desktop\StudyWoks\les_3\obj\Debug\net6.0\les_3.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\les_3\obj\Debug\net6.0\les_3.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\StudyWoks\les_3\obj\Debug\net6.0\ref\les_3.dll
