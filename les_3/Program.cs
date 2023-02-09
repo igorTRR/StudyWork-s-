@@ -4,11 +4,11 @@ int a1 = 72;
 int b1 = 3;
 int c1 = 54;
 int a2 = 5;
-int b2 = 16;
+int b2 = 216;
 int c2 = 7;
 int a3 = 131;
 int b3 = 12;
-int c3 = 45;
+int c3 = 1145;
 
 int max=a1;
 
