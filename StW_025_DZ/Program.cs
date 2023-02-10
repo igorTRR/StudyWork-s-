@@ -14,6 +14,7 @@ int Multi(int A, int B)
        return res;
 }
 Console.Clear();
+
 Console.Write("Введите число A: ");
 int A =int.Parse(Console.ReadLine()!);
 Console.Write("Введите степень возведения B: ");
