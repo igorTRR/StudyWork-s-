@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\StudyWoks\Sem4-Zd_012\bin\Debug\net6.0\Sem4-Zd_012.exe
+C:\Users\Пользователь\Desktop\StudyWoks\Sem4-Zd_012\bin\Debug\net6.0\Sem4-Zd_012.deps.json
+C:\Users\Пользователь\Desktop\StudyWoks\Sem4-Zd_012\bin\Debug\net6.0\Sem4-Zd_012.runtimeconfig.json
+C:\Users\Пользователь\Desktop\StudyWoks\Sem4-Zd_012\bin\Debug\net6.0\Sem4-Zd_012.dll
+C:\Users\Пользователь\Desktop\StudyWoks\Sem4-Zd_012\bin\Debug\net6.0\Sem4-Zd_012.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\Sem4-Zd_012\obj\Debug\net6.0\Sem4-Zd_012.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem4-Zd_012\obj\Debug\net6.0\Sem4-Zd_012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\StudyWoks\Sem4-Zd_012\obj\Debug\net6.0\Sem4-Zd_012.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem4-Zd_012\obj\Debug\net6.0\Sem4-Zd_012.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\StudyWoks\Sem4-Zd_012\obj\Debug\net6.0\Sem4-Zd_012.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem4-Zd_012\obj\Debug\net6.0\Sem4-Zd_012.dll
+C:\Users\Пользователь\Desktop\StudyWoks\Sem4-Zd_012\obj\Debug\net6.0\refint\Sem4-Zd_012.dll
+C:\Users\Пользователь\Desktop\StudyWoks\Sem4-Zd_012\obj\Debug\net6.0\Sem4-Zd_012.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\Sem4-Zd_012\obj\Debug\net6.0\Sem4-Zd_012.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem4-Zd_012\obj\Debug\net6.0\ref\Sem4-Zd_012.dll
