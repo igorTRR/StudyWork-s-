@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_4-Zd_27sem\bin\Debug\net6.0\Sem_4-Zd_27sem.exe
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_4-Zd_27sem\bin\Debug\net6.0\Sem_4-Zd_27sem.deps.json
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_4-Zd_27sem\bin\Debug\net6.0\Sem_4-Zd_27sem.runtimeconfig.json
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_4-Zd_27sem\bin\Debug\net6.0\Sem_4-Zd_27sem.dll
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_4-Zd_27sem\bin\Debug\net6.0\Sem_4-Zd_27sem.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_4-Zd_27sem\obj\Debug\net6.0\Sem_4-Zd_27sem.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_4-Zd_27sem\obj\Debug\net6.0\Sem_4-Zd_27sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_4-Zd_27sem\obj\Debug\net6.0\Sem_4-Zd_27sem.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_4-Zd_27sem\obj\Debug\net6.0\Sem_4-Zd_27sem.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_4-Zd_27sem\obj\Debug\net6.0\Sem_4-Zd_27sem.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_4-Zd_27sem\obj\Debug\net6.0\Sem_4-Zd_27sem.dll
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_4-Zd_27sem\obj\Debug\net6.0\refint\Sem_4-Zd_27sem.dll
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_4-Zd_27sem\obj\Debug\net6.0\Sem_4-Zd_27sem.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_4-Zd_27sem\obj\Debug\net6.0\Sem_4-Zd_27sem.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_4-Zd_27sem\obj\Debug\net6.0\ref\Sem_4-Zd_27sem.dll

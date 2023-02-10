@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sem_4-Zd_27sem/1.0.0": {
+        "runtime": {
+          "Sem_4-Zd_27sem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sem_4-Zd_27sem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
