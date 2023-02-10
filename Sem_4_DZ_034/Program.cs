@@ -15,13 +15,21 @@ int[] GetArray(int size, int minValue, int maxValue)
 } 
 int EvElement(int[]array) 
 {
+    
     int sum = 0;
+    int positiveSum = 0;
     foreach (int el in array)
     {
     sum+=el%2==0? el:0;
+    positiveSum += el> 0 ? el : 0;
     }
     return sum;
+   
+
 }
+
+
+
 
 int[]array = GetArray(4, 101, 445);
 int N = EvElement(array);
