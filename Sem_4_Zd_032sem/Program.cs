@@ -1,6 +1,5 @@
 ﻿// Задача 32: Напишите программу замена элементов массива: положительные элементы замените на соответствующие 
 //отрицательные, и наоборот.
-Console.Clear();
 
 int[] GetArray(int size, int MinValue, int MaxValue)
 {
@@ -12,7 +11,6 @@ int[] GetArray(int size, int MinValue, int MaxValue)
     }
     return result;
 }
-
 void sigChange(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
@@ -20,7 +18,7 @@ void sigChange(int[] array)
         array[i] *= -1;
     }
 }
-
+Console.Clear();
 int[] array = GetArray(5, -9, 9);
 Console.WriteLine(String.Join(", ", array));
 sigChange(array);
