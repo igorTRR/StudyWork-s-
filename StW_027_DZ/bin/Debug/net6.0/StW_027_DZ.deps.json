@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "les_3/1.0.0": {
+      "StW_027_DZ/1.0.0": {
         "runtime": {
-          "les_3.dll": {}
+          "StW_027_DZ.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "les_3/1.0.0": {
+    "StW_027_DZ/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
