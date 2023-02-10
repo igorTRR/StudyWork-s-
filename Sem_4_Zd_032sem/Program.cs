@@ -8,9 +8,9 @@ int[] GetArray(int size, int MinValue, int MaxValue)
 
     for (int i = 0; i < size; i++)
     {
-        Result[i] = new Random().Next(MinValue, MaxValue + 1);
+        result[i] = new Random().Next(MinValue, MaxValue + 1);
     }
-    return Result;
+    return result;
 }
 
 void sigChange(int[] array)
@@ -21,7 +21,7 @@ void sigChange(int[] array)
     }
 }
 
-int[] array = GetArray(12, -9, 9);
+int[] array = GetArray(5, -9, 9);
 Console.WriteLine(String.Join(", ", array));
-SigChange(array);
+sigChange(array);
 Console.WriteLine(String.Join(", ", array));
