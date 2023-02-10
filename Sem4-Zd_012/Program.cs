@@ -23,7 +23,7 @@ int negativeSum = 0;
 
 foreach (int element in array)
 {
-    ;positiveSum += element > 0 ? element : 0
+    positiveSum += element > 0 ? element : 0
     // if (el > 0)
     // {
     //     positiveSum += el;

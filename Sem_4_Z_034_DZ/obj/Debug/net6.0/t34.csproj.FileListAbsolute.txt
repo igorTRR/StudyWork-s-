@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\StudyWoks\t34\bin\Debug\net6.0\t34.exe
+C:\Users\Пользователь\Desktop\StudyWoks\t34\bin\Debug\net6.0\t34.deps.json
+C:\Users\Пользователь\Desktop\StudyWoks\t34\bin\Debug\net6.0\t34.runtimeconfig.json
+C:\Users\Пользователь\Desktop\StudyWoks\t34\bin\Debug\net6.0\t34.dll
+C:\Users\Пользователь\Desktop\StudyWoks\t34\bin\Debug\net6.0\t34.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\t34\obj\Debug\net6.0\t34.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\StudyWoks\t34\obj\Debug\net6.0\t34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\StudyWoks\t34\obj\Debug\net6.0\t34.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\t34\obj\Debug\net6.0\t34.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\StudyWoks\t34\obj\Debug\net6.0\t34.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\t34\obj\Debug\net6.0\t34.dll
+C:\Users\Пользователь\Desktop\StudyWoks\t34\obj\Debug\net6.0\refint\t34.dll
+C:\Users\Пользователь\Desktop\StudyWoks\t34\obj\Debug\net6.0\t34.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\t34\obj\Debug\net6.0\t34.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\StudyWoks\t34\obj\Debug\net6.0\ref\t34.dll
