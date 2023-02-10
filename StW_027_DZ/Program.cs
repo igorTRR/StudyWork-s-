@@ -14,6 +14,7 @@ int SumDig(int number)
     }
     return result;
 }
+
 Console.Write("Введите число А: ");
 int A = int.Parse(Console.ReadLine()!);
 
