@@ -13,7 +13,7 @@ double[] GetArray(int size, double minValue, double maxValue)
     }
     return result;
 }
-double[]MaxV(double[]array)
+double MaxV(double[]array)
 {
     double max = array[0];  
     for (int i = 0; i < array.Length; i++)
