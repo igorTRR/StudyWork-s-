@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\StudyWoks\\t34\\t34.csproj",
+      "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\StudyWoks\\Sem_4_Z_034_DZ\\t34.csproj",
       "projectName": "t34",
-      "projectPath": "C:\\Users\\Пользователь\\Desktop\\StudyWoks\\t34\\t34.csproj",
+      "projectPath": "C:\\Users\\Пользователь\\Desktop\\StudyWoks\\Sem_4_Z_034_DZ\\t34.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Пользователь\\Desktop\\StudyWoks\\t34\\obj\\",
+      "outputPath": "C:\\Users\\Пользователь\\Desktop\\StudyWoks\\Sem_4_Z_034_DZ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -29,4 +29,4 @@ int PozElem(int[]array)
 int[]array = GetArray(6, 101, 445);
 int N = PozElem(array);
 Console.WriteLine(string.Join(", ",array));
-Console.WriteLine($"Сумма четных чисел = {N}");
+Console.WriteLine($" четных чисел вмасстве = {N}");
