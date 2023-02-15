@@ -52,6 +52,7 @@ int[] InNum(string ar)
     }
     return numbers;
 }
+
 void PrintArray(int[] array)
 {
     Console.Write("[ ");
