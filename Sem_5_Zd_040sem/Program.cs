@@ -10,7 +10,6 @@ bool CheckTriangele(int a, int b, int c)
 {
     return a < b + c && b < a + c && c < a + b;
 }
-
 Console.Write("Введите число a: ");
 int a = int.Parse(Console.ReadLine()!);
 
