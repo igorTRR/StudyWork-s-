@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Пользователь\\Desktop\\StudyWoks\\rtr\\rtr.csproj": {}
+    "C:\\Users\\Пользователь\\Desktop\\StudyWoks\\Sem_5_Zd_041-DZ\\rtr.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Пользователь\\Desktop\\StudyWoks\\rtr\\rtr.csproj": {
+    "C:\\Users\\Пользователь\\Desktop\\StudyWoks\\Sem_5_Zd_041-DZ\\rtr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\StudyWoks\\rtr\\rtr.csproj",
+        "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\StudyWoks\\Sem_5_Zd_041-DZ\\rtr.csproj",
         "projectName": "rtr",
-        "projectPath": "C:\\Users\\Пользователь\\Desktop\\StudyWoks\\rtr\\rtr.csproj",
+        "projectPath": "C:\\Users\\Пользователь\\Desktop\\StudyWoks\\Sem_5_Zd_041-DZ\\rtr.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Пользователь\\Desktop\\StudyWoks\\rtr\\obj\\",
+        "outputPath": "C:\\Users\\Пользователь\\Desktop\\StudyWoks\\Sem_5_Zd_041-DZ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"
