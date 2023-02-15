@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\StudyWoks\rtr\obj\Debug\net6.0\rtr.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\StudyWoks\rtr\obj\Debug\net6.0\rtr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\StudyWoks\rtr\obj\Debug\net6.0\rtr.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\rtr\obj\Debug\net6.0\rtr.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\StudyWoks\rtr\obj\Debug\net6.0\rtr.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\rtr\bin\Debug\net6.0\rtr.exe
+C:\Users\Пользователь\Desktop\StudyWoks\rtr\bin\Debug\net6.0\rtr.deps.json
+C:\Users\Пользователь\Desktop\StudyWoks\rtr\bin\Debug\net6.0\rtr.runtimeconfig.json
+C:\Users\Пользователь\Desktop\StudyWoks\rtr\bin\Debug\net6.0\rtr.dll
+C:\Users\Пользователь\Desktop\StudyWoks\rtr\bin\Debug\net6.0\rtr.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\rtr\obj\Debug\net6.0\rtr.dll
+C:\Users\Пользователь\Desktop\StudyWoks\rtr\obj\Debug\net6.0\refint\rtr.dll
+C:\Users\Пользователь\Desktop\StudyWoks\rtr\obj\Debug\net6.0\rtr.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\rtr\obj\Debug\net6.0\rtr.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\StudyWoks\rtr\obj\Debug\net6.0\ref\rtr.dll
