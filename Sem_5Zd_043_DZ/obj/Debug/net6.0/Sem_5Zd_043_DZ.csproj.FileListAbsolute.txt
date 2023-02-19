@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_5Zd_043_DZ\bin\Debug\net6.0\Sem_5Zd_043_DZ.exe
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_5Zd_043_DZ\bin\Debug\net6.0\Sem_5Zd_043_DZ.deps.json
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_5Zd_043_DZ\bin\Debug\net6.0\Sem_5Zd_043_DZ.runtimeconfig.json
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_5Zd_043_DZ\bin\Debug\net6.0\Sem_5Zd_043_DZ.dll
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_5Zd_043_DZ\bin\Debug\net6.0\Sem_5Zd_043_DZ.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_5Zd_043_DZ\obj\Debug\net6.0\Sem_5Zd_043_DZ.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_5Zd_043_DZ\obj\Debug\net6.0\Sem_5Zd_043_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_5Zd_043_DZ\obj\Debug\net6.0\Sem_5Zd_043_DZ.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_5Zd_043_DZ\obj\Debug\net6.0\Sem_5Zd_043_DZ.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_5Zd_043_DZ\obj\Debug\net6.0\Sem_5Zd_043_DZ.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_5Zd_043_DZ\obj\Debug\net6.0\Sem_5Zd_043_DZ.dll
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_5Zd_043_DZ\obj\Debug\net6.0\refint\Sem_5Zd_043_DZ.dll
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_5Zd_043_DZ\obj\Debug\net6.0\Sem_5Zd_043_DZ.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_5Zd_043_DZ\obj\Debug\net6.0\Sem_5Zd_043_DZ.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem_5Zd_043_DZ\obj\Debug\net6.0\ref\Sem_5Zd_043_DZ.dll
