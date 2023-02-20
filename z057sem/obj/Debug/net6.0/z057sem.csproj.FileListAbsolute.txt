@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\StudyWoks\z057sem\bin\Debug\net6.0\z057sem.exe
+C:\Users\Пользователь\Desktop\StudyWoks\z057sem\bin\Debug\net6.0\z057sem.deps.json
+C:\Users\Пользователь\Desktop\StudyWoks\z057sem\bin\Debug\net6.0\z057sem.runtimeconfig.json
+C:\Users\Пользователь\Desktop\StudyWoks\z057sem\bin\Debug\net6.0\z057sem.dll
+C:\Users\Пользователь\Desktop\StudyWoks\z057sem\bin\Debug\net6.0\z057sem.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\z057sem\obj\Debug\net6.0\z057sem.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\StudyWoks\z057sem\obj\Debug\net6.0\z057sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\StudyWoks\z057sem\obj\Debug\net6.0\z057sem.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\z057sem\obj\Debug\net6.0\z057sem.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\StudyWoks\z057sem\obj\Debug\net6.0\z057sem.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\z057sem\obj\Debug\net6.0\z057sem.dll
+C:\Users\Пользователь\Desktop\StudyWoks\z057sem\obj\Debug\net6.0\refint\z057sem.dll
+C:\Users\Пользователь\Desktop\StudyWoks\z057sem\obj\Debug\net6.0\z057sem.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\z057sem\obj\Debug\net6.0\z057sem.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\StudyWoks\z057sem\obj\Debug\net6.0\ref\z057sem.dll
