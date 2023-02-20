@@ -31,11 +31,11 @@ void PrintArray(int[,] inArray)
      Console.WriteLine();
 }
 Console.Write("Введите кол-во строк массива: ");
-int m = int.Parse(Console.ReadLine()!);
+int m = Convert.ToInt32(Console.ReadLine()!);
 Console.Write("Введите кол-во столбцов массива: ");
-int n = int.Parse(Console.ReadLine()!);
+int n = Convert.ToInt32(Console.ReadLine()!);
 
-int[,] inArray = GetArray(m, n, -10, 10);
+int[,] inArray = GetArray(m, n, -05,2);
 PrintArray(inArray);
 Console.WriteLine();
 PrintArray(inArray);
