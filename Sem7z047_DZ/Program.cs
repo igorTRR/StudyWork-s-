@@ -3,22 +3,22 @@
 // 0,5 7 -2 -0,2
 // 1 -3,3 8 -9,9
 // 8 7,8 -7,1 9
-int[,] GetArray(int m, int n, int minValue, int maxValue) 
+double[,] GetArray(int m, int n, double minValue, double maxValue) 
 {
-    int[,] result = new int[m, n];
+    double[,] result = new double[m, n];
 
     for (int i = 0; i < m; i++)
     {
         for (int j = 0; j < n; j++)
         {
-            result[i, j] = new Random().Next();
+            result[i, j] = new Random().NextDouble();
         }
     }
 
     return result;
 }
 
-void PrintArray(int[,] inArray)
+void PrintArray(double[,] inArray)
 {
     for (int i = 0; i < inArray.GetLength(0); i++)
     {
@@ -35,7 +35,7 @@ int m = Convert.ToInt32(Console.ReadLine()!);
 Console.Write("Введите кол-во столбцов массива: ");
 int n = Convert.ToInt32(Console.ReadLine()!);
 
-int[,] inArray = GetArray(m, n, -05,2);
-PrintArray(inArray);
+double[,] inArray = GetArray(m, n, -01,4);
 Console.WriteLine();
 PrintArray(inArray);
+Console.WriteLine();
