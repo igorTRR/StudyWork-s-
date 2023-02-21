@@ -11,7 +11,8 @@ double[,] GetArray(int m, int n, double minValue, double maxValue)
     {
         for (int j = 0; j < n; j++)
         {
-            result[i, j] = new Random().NextDouble();
+            result[i, j] =  Math.Round(minValue+ new Random().NextDouble()*(maxValue +new Random().NextDouble()));
+           
         }
     }
 
@@ -31,11 +32,11 @@ void PrintArray(double[,] inArray)
      Console.WriteLine();
 }
 Console.Write("Введите кол-во строк массива: ");
-int m = Convert.ToInt32(Console.ReadLine()!);
+int m = int.Parse(Console.ReadLine()!);
 Console.Write("Введите кол-во столбцов массива: ");
-int n = Convert.ToInt32(Console.ReadLine()!);
+int n = int.Parse(Console.ReadLine()!);
 
-double[,] inArray = GetArray(m, n, -01,4);
+double[,] inArray = GetArray(m, n, -05,3);
 Console.WriteLine();
 PrintArray(inArray);
 Console.WriteLine();
