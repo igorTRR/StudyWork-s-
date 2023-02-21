@@ -11,7 +11,7 @@ double[,] GetArray(int m, int n, double minValue, double maxValue)
     {
         for (int j = 0; j < n; j++)
         {
-            result[i, j] =  Math.Round(minValue+ new Random().NextDouble()*(maxValue +new Random().NextDouble()));
+            result[i, j] =  Math.Round(minValue+ new Random().NextDouble()*(maxValue -minValue),1);
            
         }
     }
