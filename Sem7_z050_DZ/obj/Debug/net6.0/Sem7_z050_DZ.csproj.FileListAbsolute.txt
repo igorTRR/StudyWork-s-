@@ -1,0 +1,5 @@
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7_z050_DZ\obj\Debug\net6.0\Sem7_z050_DZ.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7_z050_DZ\obj\Debug\net6.0\Sem7_z050_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7_z050_DZ\obj\Debug\net6.0\Sem7_z050_DZ.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7_z050_DZ\obj\Debug\net6.0\Sem7_z050_DZ.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7_z050_DZ\obj\Debug\net6.0\Sem7_z050_DZ.csproj.CoreCompileInputs.cache
