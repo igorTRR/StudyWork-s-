@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7-z-052_DZ\obj\Debug\net6.0\Sem7-z-052_DZ.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7-z-052_DZ\obj\Debug\net6.0\Sem7-z-052_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7-z-052_DZ\obj\Debug\net6.0\Sem7-z-052_DZ.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7-z-052_DZ\obj\Debug\net6.0\Sem7-z-052_DZ.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7-z-052_DZ\obj\Debug\net6.0\Sem7-z-052_DZ.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7-z-052_DZ\bin\Debug\net6.0\Sem7-z-052_DZ.exe
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7-z-052_DZ\bin\Debug\net6.0\Sem7-z-052_DZ.deps.json
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7-z-052_DZ\bin\Debug\net6.0\Sem7-z-052_DZ.runtimeconfig.json
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7-z-052_DZ\bin\Debug\net6.0\Sem7-z-052_DZ.dll
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7-z-052_DZ\bin\Debug\net6.0\Sem7-z-052_DZ.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7-z-052_DZ\obj\Debug\net6.0\Sem7-z-052_DZ.dll
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7-z-052_DZ\obj\Debug\net6.0\refint\Sem7-z-052_DZ.dll
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7-z-052_DZ\obj\Debug\net6.0\Sem7-z-052_DZ.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7-z-052_DZ\obj\Debug\net6.0\Sem7-z-052_DZ.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem7-z-052_DZ\obj\Debug\net6.0\ref\Sem7-z-052_DZ.dll
