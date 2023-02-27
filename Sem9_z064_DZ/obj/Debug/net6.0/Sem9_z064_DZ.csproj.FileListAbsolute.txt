@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\StudyWoks\Sem9_z064_DZ\obj\Debug\net6.0\Sem9_z064_DZ.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem9_z064_DZ\obj\Debug\net6.0\Sem9_z064_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\StudyWoks\Sem9_z064_DZ\obj\Debug\net6.0\Sem9_z064_DZ.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem9_z064_DZ\obj\Debug\net6.0\Sem9_z064_DZ.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\StudyWoks\Sem9_z064_DZ\obj\Debug\net6.0\Sem9_z064_DZ.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem9_z064_DZ\bin\Debug\net6.0\Sem9_z064_DZ.exe
+C:\Users\Пользователь\Desktop\StudyWoks\Sem9_z064_DZ\bin\Debug\net6.0\Sem9_z064_DZ.deps.json
+C:\Users\Пользователь\Desktop\StudyWoks\Sem9_z064_DZ\bin\Debug\net6.0\Sem9_z064_DZ.runtimeconfig.json
+C:\Users\Пользователь\Desktop\StudyWoks\Sem9_z064_DZ\bin\Debug\net6.0\Sem9_z064_DZ.dll
+C:\Users\Пользователь\Desktop\StudyWoks\Sem9_z064_DZ\bin\Debug\net6.0\Sem9_z064_DZ.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\Sem9_z064_DZ\obj\Debug\net6.0\Sem9_z064_DZ.dll
+C:\Users\Пользователь\Desktop\StudyWoks\Sem9_z064_DZ\obj\Debug\net6.0\refint\Sem9_z064_DZ.dll
+C:\Users\Пользователь\Desktop\StudyWoks\Sem9_z064_DZ\obj\Debug\net6.0\Sem9_z064_DZ.pdb
+C:\Users\Пользователь\Desktop\StudyWoks\Sem9_z064_DZ\obj\Debug\net6.0\Sem9_z064_DZ.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\StudyWoks\Sem9_z064_DZ\obj\Debug\net6.0\ref\Sem9_z064_DZ.dll
